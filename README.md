@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
 <!--
 **ItayShkliar/ItayShkliar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
