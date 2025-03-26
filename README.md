@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Itay Shkliar  
-🎓 **16 y/o Math & CS Student @ **Bar-Ilan University** | 🏫 Cyber High School Student | 💻 Passionate about Networking, Security & Algorithms  
+🎓 16 y/o Math & CS Student @ **Bar-Ilan University** | 🏫 Cyber High School Student 
 
 > *"Rather than worrying about your future, think about what you can do now."* – Miyamoto Musashi 🗡️  
 
@@ -28,7 +28,6 @@
 
 ### 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight)
 <!--
 **ItayShkliar/ItayShkliar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
